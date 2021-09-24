@@ -29,10 +29,10 @@
         <nav class="navbar">
             <ul>
                 <li><a href="index.php">home</a></li>
-                <li><a href="#">about</a></li>
+                <li><a href="about.php">about</a></li>
                 <li><a href="courses.php">course</a></li>
-                <li><a href="#teacher">teacher</a></li>
-                <li><a href="#contact">contact</a></li>
+          
+                <li><a href="contact.php">contact</a></li>
             </ul>
 
         </nav>
