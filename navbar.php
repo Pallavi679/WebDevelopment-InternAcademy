@@ -40,8 +40,6 @@
         <button class="btn btn primary btn block" > 
             <a href="signup.php"> LOG IN </a> 
         </button> 
-
-        </div>
     </header>
     <!-- header section ends  -->
     <!-- login form -->
