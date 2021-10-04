@@ -40,7 +40,7 @@
 
         </nav>
         <button class="btn btn primary btn block" > 
-            <a href="#"> LOG IN </a> 
+            <a href="signup.php"> LOG IN </a> 
         </button>    
 
         </div>
