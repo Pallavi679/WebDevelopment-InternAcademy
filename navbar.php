@@ -36,7 +36,10 @@
             </ul>
 
         </nav>
-        <div id="login" class="fas fa-user-circle">
+<!--         <div id="login" class="fas fa-user-circle"> -->
+        <button class="btn btn primary btn block" > 
+            <a href="signup.php"> LOG IN </a> 
+        </button> 
 
         </div>
     </header>
